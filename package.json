@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "npm run build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -27,7 +27,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://camonanesi123.github.io/payoneer_rate",
   "browserslist": {
     "production": [
       ">0.2%",
