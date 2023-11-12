@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/payoneer_rate.git/static/css/main.5527a087.css",
-    "main.js": "/payoneer_rate.git/static/js/main.7047a25a.js",
-    "static/js/787.28cb0dcd.chunk.js": "/payoneer_rate.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/header3.png": "/payoneer_rate.git/static/media/header3.28dbafea8ff3a43746be.png",
-    "static/media/unnamed.jpg": "/payoneer_rate.git/static/media/unnamed.2a3eac8d42bf86f4393b.jpg",
-    "static/media/header4.png": "/payoneer_rate.git/static/media/header4.2925fe7e47fbb9542e80.png",
-    "static/media/header1.png": "/payoneer_rate.git/static/media/header1.bb8444990c9e990a7f0a.png",
-    "static/media/header2.png": "/payoneer_rate.git/static/media/header2.c839448678bc57ddb2ef.png",
-    "static/media/logo.svg": "/payoneer_rate.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/payoneer_rate.git/index.html",
-    "main.5527a087.css.map": "/payoneer_rate.git/static/css/main.5527a087.css.map",
-    "main.7047a25a.js.map": "/payoneer_rate.git/static/js/main.7047a25a.js.map",
-    "787.28cb0dcd.chunk.js.map": "/payoneer_rate.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/payoneer_rate/static/css/main.72c69cc0.css",
+    "main.js": "/payoneer_rate/static/js/main.fb6e2ab8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/payoneer_rate/static/js/787.28cb0dcd.chunk.js",
+    "static/media/header3.png": "/payoneer_rate/static/media/header3.28dbafea8ff3a43746be.png",
+    "static/media/unnamed.jpg": "/payoneer_rate/static/media/unnamed.2a3eac8d42bf86f4393b.jpg",
+    "static/media/header4.png": "/payoneer_rate/static/media/header4.2925fe7e47fbb9542e80.png",
+    "static/media/header1.png": "/payoneer_rate/static/media/header1.bb8444990c9e990a7f0a.png",
+    "static/media/header2.png": "/payoneer_rate/static/media/header2.c839448678bc57ddb2ef.png",
+    "static/media/logo.svg": "/payoneer_rate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/payoneer_rate/index.html",
+    "main.72c69cc0.css.map": "/payoneer_rate/static/css/main.72c69cc0.css.map",
+    "main.fb6e2ab8.js.map": "/payoneer_rate/static/js/main.fb6e2ab8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/payoneer_rate/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5527a087.css",
-    "static/js/main.7047a25a.js"
+    "static/css/main.72c69cc0.css",
+    "static/js/main.fb6e2ab8.js"
   ]
 }
