@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/payoneer_rate/static/css/main.72c69cc0.css",
-    "main.js": "/payoneer_rate/static/js/main.fb6e2ab8.js",
+    "main.js": "/payoneer_rate/static/js/main.effa4aef.js",
     "static/js/787.28cb0dcd.chunk.js": "/payoneer_rate/static/js/787.28cb0dcd.chunk.js",
     "static/media/header3.png": "/payoneer_rate/static/media/header3.28dbafea8ff3a43746be.png",
     "static/media/unnamed.jpg": "/payoneer_rate/static/media/unnamed.2a3eac8d42bf86f4393b.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/payoneer_rate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/payoneer_rate/index.html",
     "main.72c69cc0.css.map": "/payoneer_rate/static/css/main.72c69cc0.css.map",
-    "main.fb6e2ab8.js.map": "/payoneer_rate/static/js/main.fb6e2ab8.js.map",
+    "main.effa4aef.js.map": "/payoneer_rate/static/js/main.effa4aef.js.map",
     "787.28cb0dcd.chunk.js.map": "/payoneer_rate/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72c69cc0.css",
-    "static/js/main.fb6e2ab8.js"
+    "static/js/main.effa4aef.js"
   ]
 }
