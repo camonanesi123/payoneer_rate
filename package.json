@@ -27,6 +27,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://camonanesi123.github.io/payoneer_rate",
   "browserslist": {
     "production": [
       ">0.2%",
