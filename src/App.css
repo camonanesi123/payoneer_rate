@@ -27,7 +27,134 @@
 .App-link {
   color: #61dafb;
 }
+/* App.css */
+.adaptive-div {
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto;
+  background-image: url('img/unnamed.jpg');
+  background-size: contain; /* 设置背景图片大小为contain，使其适应DIV */
+  background-repeat: no-repeat; /* 防止背景图片重复显示 */
+  background-position: center; 
+  padding: 20px;
+  box-sizing: border-box;
+}
+/* MyComponent.css */
+.background-div {
+  /* 设置背景图片的路径 */
+  background-image: url('img/unnamed.jpg');
+  
+  /* 将背景图覆盖整个div */
+  background-size: cover;
+  
+  /* 设置背景图在div中居中显示 */
+  background-position: center;
+  
+  /* 其他样式 */
+  color: white; /* 文字颜色，以确保在背景图片上有足够对比度 */
+  padding: 20px;
+  box-sizing: border-box;
+}
 
+/* 如果需要高度自适应，可以使用百分比或vh单位 */
+.adaptive-div {
+  height: 60vh;
+}
+
+.header1-div {
+  width: 80%;
+  max-width: 600px;
+  background-image: url('img/header1.png');
+  background-size: contain; /* 设置背景图片大小为contain，使其适应DIV */
+  background-repeat: no-repeat; /* 防止背景图片重复显示 */
+  background-position: center; 
+}
+/* 如果需要高度自适应，可以使用百分比或vh单位 */
+.header1-div {
+  height: 60vh;
+}
+
+
+.header2-div {
+  width: 80%;
+  max-width: 600px;
+  background-image: url('img/header2.png');
+  background-size: contain; /* 设置背景图片大小为contain，使其适应DIV */
+  background-repeat: no-repeat; /* 防止背景图片重复显示 */
+  background-position: center; 
+  color: white;
+  box-sizing: border-box;
+}
+.header2-div {
+  height: 60vh;
+}
+.header3-div {
+  width: 80%;
+  max-width: 600px;
+  background-image: url('img/header3.png');
+  background-size: contain; /* 设置背景图片大小为contain，使其适应DIV */
+  background-repeat: no-repeat; /* 防止背景图片重复显示 */
+  background-position: center; 
+  color: white;
+  box-sizing: border-box;
+}
+.header3-div {
+  height: 60vh;
+}
+.header4-div {
+  width: 80%;
+  max-width: 600px;
+  background-image: url('img/header4.png');
+  background-size: contain; /* 设置背景图片大小为contain，使其适应DIV */
+  background-repeat: no-repeat; /* 防止背景图片重复显示 */
+  background-position: center; 
+  color: white;
+  box-sizing: border-box;
+}
+.header4-div {
+  height: 60vh;
+}
+
+
+.hover-div {
+  width: 80%;
+  max-width: 600px;
+  background-size: contain; /* 设置背景图片大小为contain，使其适应DIV */
+  background-repeat: no-repeat; /* 防止背景图片重复显示 */
+  background-position: center; 
+  padding: 20px;
+  box-sizing: border-box;
+  /* 其他样式 */
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.item {
+  flex: 1;
+  display: flex;
+  align-items: stretch;
+  margin: 0;
+  position: relative;
+}
+
+.item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  z-index: 1; /* Ensure the overlay is above the image */
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
