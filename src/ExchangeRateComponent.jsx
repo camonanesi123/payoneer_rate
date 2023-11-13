@@ -7,7 +7,7 @@ const ExchangeRateComponent = ({ onDataReceived }) => {
   const [exchangeRate, setExchangeRate] = useState(null);
 
   useEffect(() => {
-    const apiUrl = '/api'; // 使用代理路径
+    const apiUrl = 'http://web.juhe.cn/finance/exchange/rmbquot?type=0&bank=3&key=21d1afa89475cfed5d9cc42e069930b6'; // 使用代理路径
 
     axios.get(apiUrl)
       .then(response => {
