@@ -11,6 +11,7 @@ const ExchangeRateComponent = ({ onDataReceived }) => {
 
     axios.get(apiUrl)
       .then(response => {
+        console.log('API Response:', response.data); // Log the entire response
         const usdToCnyRate = response.data.result[0].data1['bankConversionPri'];
         setExchangeRate(usdToCnyRate * 0.01);
         onDataReceived(usdToCnyRate * 0.01);
