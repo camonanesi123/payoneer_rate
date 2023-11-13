@@ -2,12 +2,8 @@
     "routes": [
       {
         "src": "/api/(.*)",
-        "dest": "http://web.juhe.cn/finance/exchange/rmbquot?type=0&bank=3&key=21d1afa89475cfed5d9cc42e069930b6/:1",
+        "dest": "/api/proxy",
         "methods": ["GET"]
-      },
-      {
-        "src": "/(.*)",
-        "dest": "/$1"
       }
     ]
   }
